@@ -6,5 +6,6 @@ public class Demo1 {
         String number = "commit3";
         String number4 = "commit4";
         String number5;
+        String number6;
     }
 }
