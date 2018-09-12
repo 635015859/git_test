@@ -5,5 +5,6 @@ public class Demo1 {
         String name = "xiaoming";
         String number = "commit3";
         String number4 = "commit4";
+        String number5;
     }
 }
