@@ -7,5 +7,6 @@ public class Demo2 {
         String line3;
         String line4;
         String line5;
+        String line6;
     }
 }
